@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "Q001",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Bidang ilmu mengenai studi, perancangan, dan pembuatan sistem komputasi serta prinsip-prinsip yang menjadi dasar perancangan tersebut disebut ...",
+    "options": {
+      "A": "Teknologi Informasi",
+      "B": "Informatika",
+      "C": "Telekomunikasi",
+      "D": "Elektronika Dasar",
+      "E": "Otomasi Industri"
+    },
+    "answer": "B",
+    "explanation": "Informatika mencakup studi, perancangan, dan pembuatan sistem komputasi beserta prinsip dasarnya, bukan sekadar penggunaan perangkat."
+  },
+  {
+    "id": "Q002",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Perbedaan utama antara mata pelajaran TIK (Teknologi Informasi dan Komunikasi) dengan Informatika adalah ...",
+    "options": {
+      "A": "TIK hanya mempelajari perangkat keras, sedangkan Informatika hanya perangkat lunak",
+      "B": "TIK berfokus pada cara menggunakan aplikasi teknologi, sedangkan Informatika mempelajari konsep dasar dan cara mencipta sistem komputasi",
+      "C": "Informatika tidak membutuhkan komputer sama sekali dalam penerapannya",
+      "D": "TIK dipelajari di perguruan tinggi, sedangkan Informatika hanya di sekolah dasar",
+      "E": "Informatika hanya membahas jaringan internet tanpa pemrograman"
+    },
+    "answer": "B",
+    "explanation": "TIK menekankan kecakapan pengguna (user), sedangkan Informatika membekali pemahaman keilmuan agar mampu merancang dan menciptakan solusi komputasi."
+  },
+  {
+    "id": "Q003",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Dalam kurikulum Informatika, bidang pengetahuan yang menjadi inti dan landasan utama sebelum mempelajari elemen lainnya adalah ...",
+    "options": {
+      "A": "Desain Grafis",
+      "B": "Berpikir Komputasional",
+      "C": "Mengetik Cepat",
+      "D": "Perakitan Kabel",
+      "E": "Pemasaran Digital"
+    },
+    "answer": "B",
+    "explanation": "Berpikir Komputasional merupakan landasan berpikir (thinking skill) yang mendasari seluruh pilar keilmuan Informatika."
+  },
+  {
+    "id": "Q004",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Berikut ini yang merupakan delapan pilar bidang pengetahuan utama dalam Informatika adalah, kecuali ...",
+    "options": {
+      "A": "Sistem Komputer (SK)",
+      "B": "Jaringan Komputer dan Internet (JKI)",
+      "C": "Analisis Data (AD)",
+      "D": "Algoritma dan Pemrograman (AP)",
+      "E": "Manajemen Akuntansi Keuangan (MAK)"
+    },
+    "answer": "E",
+    "explanation": "Delapan pilar Informatika meliputi BK, TIK, SK, JKI, AD, AP, DSI (Dampak Sosial Informatika), dan PLB (Praktik Lintas Bidang)."
+  },
+  {
+    "id": "Q005",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Landasan berpikir untuk menyelesaikan persoalan dengan merancang solusi yang dapat dijalankan oleh manusia maupun komputer disebut ...",
+    "options": {
+      "A": "Komputasi",
+      "B": "Visualisasi",
+      "C": "Dokumentasi",
+      "D": "Kalibrasi",
+      "E": "Komunikasi"
+    },
+    "answer": "A",
+    "explanation": "Komputasi adalah proses pemecahan masalah berbasis pemodelan matematis dan logika yang dapat dieksekusi sistem komputer maupun manusia."
+  },
+  {
+    "id": "Q006",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Pada era Society 5.0, masyarakat diharapkan mampu mengintegrasikan ruang maya dan ruang fisik untuk menyelesaikan masalah sosial. Peran utama ilmu Informatika dalam era ini adalah ...",
+    "options": {
+      "A": "Menggantikan seluruh peran manusia dengan mesin tanpa pengawasan",
+      "B": "Menyediakan sistem cerdas berbasis data untuk meningkatkan kualitas hidup manusia",
+      "C": "Membatasi akses informasi agar hanya dimiliki kelompok tertentu",
+      "D": "Menghapus penggunaan perangkat digital di lingkungan sekolah",
+      "E": "Mengurangi kebutuhan analisis data dalam pengambilan keputusan"
+    },
+    "answer": "B",
+    "explanation": "Society 5.0 berpusat pada manusia (human-centered) yang memanfaatkan teknologi informasi dan kecerdasan data untuk kesejahteraan manusia."
+  },
+  {
+    "id": "Q007",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Pilar Informatika yang membahas etika digital, privasi data, hak cipta perangkat lunak, dan pengaruh teknologi terhadap kehidupan bermasyarakat adalah ...",
+    "options": {
+      "A": "Sistem Komputer",
+      "B": "Teknologi Informasi dan Komunikasi",
+      "C": "Dampak Sosial Informatika",
+      "D": "Jaringan Komputer",
+      "E": "Algoritma dan Pemrograman"
+    },
+    "answer": "C",
+    "explanation": "Dampak Sosial Informatika (DSI) mengkaji pengaruh teknologi komputasi terhadap aspek sosial, hukum, etika, dan keamanan."
+  },
+  {
+    "id": "Q008",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Kegiatan menyusun artefak komputasional secara kolaboratif untuk memecahkan masalah nyata di bidang lain (misalnya sains atau seni) termasuk dalam pilar ...",
+    "options": {
+      "A": "Praktik Lintas Bidang",
+      "B": "Analisis Data",
+      "C": "Sistem Komputer",
+      "D": "Jaringan Komputer",
+      "E": "Arsitektur Perangkat Keras"
+    },
+    "answer": "A",
+    "explanation": "Praktik Lintas Bidang (PLB) melatih peserta didik menerapkan konsep informatika untuk menciptakan solusi nyata lintas disiplin ilmu."
+  },
+  {
+    "id": "Q009",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Kemampuan umum yang diperlukan dalam bekerja secara tim, berkomunikasi, dan mengelola proyek Informatika meskipun tidak terikat pada satu aplikasi tertentu disebut ...",
+    "options": {
+      "A": "Keterampilan Teknis Spesifik",
+      "B": "Keterampilan Generik",
+      "C": "Keterampilan Mekanik",
+      "D": "Keterampilan Pemrograman Lanjut",
+      "E": "Keterampilan Instalasi Jaringan"
+    },
+    "answer": "B",
+    "explanation": "Keterampilan generik adalah kompetensi dasar lintas bidang seperti kolaborasi, komunikasi, presentasi, dan manajemen kerja kelompok."
+  },
+  {
+    "id": "Q010",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Dua aspek utama keterampilan generik yang paling ditekankan dalam pembelajaran proyek Informatika adalah ...",
+    "options": {
+      "A": "Menghafal kode dan mengetik cepat",
+      "B": "Kolaborasi dalam kelompok dan mengomunikasikan hasil kerja",
+      "C": "Merakit CPU dan menyolder komponen",
+      "D": "Menginstal sistem operasi dan antivirus",
+      "E": "Membuat akun media sosial dan blog"
+    },
+    "answer": "B",
+    "explanation": "Dalam proyek Informatika, siswa dilatih berkolaborasi dalam tim dan mengomunikasikan hasil secara efektif melalui presentasi maupun infografis."
+  },
+  {
+    "id": "Q011",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Manfaat utama melakukan pembagian peran (seperti koordinator, perancang, pencari data, dan penyaji) dalam kerja kelompok adalah ...",
+    "options": {
+      "A": "Agar hanya satu orang yang mengerjakan seluruh tugas",
+      "B": "Menghindari komunikasi antaranggota kelompok",
+      "C": "Meningkatkan efisiensi kerja, tanggung jawab merata, dan kualitas hasil proyek",
+      "D": "Memperpanjang waktu pengerjaan agar terlihat sibuk",
+      "E": "Membuat anggota tidak perlu memahami keseluruhan tujuan proyek"
+    },
+    "answer": "C",
+    "explanation": "Pembagian peran yang jelas membuat setiap anggota berkontribusi optimal, bertanggung jawab, dan mempercepat penyelesaian proyek."
+  },
+  {
+    "id": "Q012",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Media penyampaian informasi yang memadukan teks singkat, data visual, ikon, dan tata letak menarik agar gagasan Informatika mudah dipahami pembaca disebut ...",
+    "options": {
+      "A": "Kode sumber (source code)",
+      "B": "Infografis",
+      "C": "Spreadsheet mentah",
+      "D": "Log sistem",
+      "E": "Kompilator"
+    },
+    "answer": "B",
+    "explanation": "Infografis menyajikan informasi kompleks secara ringkas dan visual sehingga audiens cepat memahami pesan inti."
+  },
+  {
+    "id": "Q013",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Hal yang sebaiknya dihindari saat membuat salindia (slide) presentasi hasil proyek Informatika adalah ...",
+    "options": {
+      "A": "Menggunakan poin-poin ringkas yang mudah dibaca",
+      "B": "Menambahkan diagram alur atau grafik pendukung",
+      "C": "Memenuhi seluruh layar dengan paragraf teks yang sangat panjang dan font kecil",
+      "D": "Menjaga kontras warna antara tulisan dan latar belakang",
+      "E": "Menyertakan judul yang jelas di setiap slide"
+    },
+    "answer": "C",
+    "explanation": "Slide yang penuh teks panjang dan berukuran kecil menyulitkan audiens membaca dan mengalihkan perhatian dari penjelasan pembicara."
+  },
+  {
+    "id": "Q014",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Dalam sesi diskusi dan kolaborasi kelompok, sikap yang mencerminkan keterampilan komunikasi yang efektif adalah ...",
+    "options": {
+      "A": "Memotong pembicaraan anggota lain sebelum selesai berpendapat",
+      "B": "Mendengarkan pendapat rekan dengan aktif dan memberi umpan balik yang membangun",
+      "C": "Menolak semua ide yang berbeda dari pendapat pribadi",
+      "D": "Bekerja diam-diam tanpa memberi tahu progres kepada tim",
+      "E": "Menyerahkan seluruh keputusan kepada guru tanpa berdiskusi"
+    },
+    "answer": "B",
+    "explanation": "Mendengarkan aktif dan umpan balik konstruktif menjaga sinergi tim dan menghasilkan solusi terbaik."
+  },
+  {
+    "id": "Q015",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Langkah pertama yang tepat dilakukan sebuah tim saat menerima proyek Informatika berbatas waktu adalah ...",
+    "options": {
+      "A": "Langsung membuat slide presentasi sebelum materi ditentukan",
+      "B": "Menyepakati tujuan proyek, membagi tugas, dan menyusun jadwal kerja",
+      "C": "Menunggu hari terakhir agar ide lebih segar",
+      "D": "Mengerjakan bagian masing-masing tanpa menentukan format hasil akhir",
+      "E": "Menghapus fitur yang sulit tanpa berdiskusi dengan tim"
+    },
+    "answer": "B",
+    "explanation": "Perencanaan awal berupa penyamaan visi, pembagian peran, dan penjadwalan adalah fondasi manajemen proyek yang baik."
+  },
+  {
+    "id": "Q016",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Berpikir Komputasional (Computational Thinking) dapat didefinisikan secara tepat sebagai ...",
+    "options": {
+      "A": "Cara berpikir yang hanya bisa dilakukan oleh programmer profesional",
+      "B": "Proses berpikir untuk memformulasikan persoalan dan solusinya secara logis, sistematis, serta dapat dieksekusi oleh manusia atau komputer",
+      "C": "Keterampilan memperbaiki komponen perangkat keras komputer yang rusak",
+      "D": "Kebiasaan menghafal rumus matematika tanpa memahami prosesnya",
+      "E": "Kemampuan mengetik perintah bahasa pemrograman secepat mungkin"
+    },
+    "answer": "B",
+    "explanation": "Berpikir komputasional adalah pendekatan pemecahan masalah secara sistematis dan logis agar solusinya efektif dan dapat dijalankan agen pemroses informasi."
+  },
+  {
+    "id": "Q017",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Empat pilar utama dalam Berpikir Komputasional adalah ...",
+    "options": {
+      "A": "Kompilasi, Eksekusi, Debugging, dan Publikasi",
+      "B": "Dekomposisi, Pengenalan Pola, Abstraksi, dan Berpikir Algoritmik",
+      "C": "Input, Proses, Output, dan Penyimpanan",
+      "D": "Analisis, Desain, Pengkodean, dan Pemeliharaan",
+      "E": "Searching, Sorting, Stack, dan Queue"
+    },
+    "answer": "B",
+    "explanation": "Keempat fondasi Computational Thinking adalah Dekomposisi, Pengenalan Pola (Pattern Recognition), Abstraksi, dan Algoritma."
+  },
+  {
+    "id": "Q018",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Proses memecah masalah yang besar dan kompleks menjadi sub-masalah yang lebih kecil sehingga lebih mudah dikelola disebut ...",
+    "options": {
+      "A": "Abstraksi",
+      "B": "Pengenalan Pola",
+      "C": "Dekomposisi",
+      "D": "Algoritma",
+      "E": "Iterasi"
+    },
+    "answer": "C",
+    "explanation": "Dekomposisi membagi persoalan besar menjadi bagian-bagian kecil yang lebih mudah dipahami dan diselesaikan satu per satu."
+  },
+  {
+    "id": "Q019",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Saat mengamati kemiripan ciri, kesamaan tren, atau keteraturan yang berulang di antara sub-masalah, kita sedang menerapkan pilar ...",
+    "options": {
+      "A": "Pengenalan Pola (Pattern Recognition)",
+      "B": "Dekomposisi (Decomposition)",
+      "C": "Abstraksi (Abstraction)",
+      "D": "Enkapsulasi",
+      "E": "Kompresi Data"
+    },
+    "answer": "A",
+    "explanation": "Pengenalan pola bertujuan menemukan kesamaan atau keteraturan sehingga solusi serupa dapat diterapkan ulang dengan efisien."
+  },
+  {
+    "id": "Q020",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Menyaring informasi untuk mengambil bagian yang penting dan relevan saja, serta mengabaikan detail yang tidak diperlukan disebut ...",
+    "options": {
+      "A": "Dekomposisi",
+      "B": "Abstraksi",
+      "C": "Pengurutan",
+      "D": "Pencarian",
+      "E": "Rekursi"
+    },
+    "answer": "B",
+    "explanation": "Abstraksi membantu menyederhanakan kompleksitas dengan berfokus pada informasi inti dan mengabaikan detail yang tidak relevan."
+  },
+  {
+    "id": "Q021",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Menyusun langkah-langkah instruksi yang logis, berurutan, dan jelas untuk memecahkan suatu persoalan merupakan penerapan pilar ...",
+    "options": {
+      "A": "Berpikir Algoritmik",
+      "B": "Abstraksi Data",
+      "C": "Pengenalan Pola",
+      "D": "Dekomposisi Masalah",
+      "E": "Evaluasi Sistem"
+    },
+    "answer": "A",
+    "explanation": "Berpikir algoritmik menghasilkan serangkaian langkah sistematis dan terstruktur untuk menyelesaikan masalah secara konsisten."
+  },
+  {
+    "id": "Q022",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Pernyataan berikut yang paling tepat mengenai Berpikir Komputasional adalah ...",
+    "options": {
+      "A": "Berpikir seperti mesin komputer tanpa kreativitas",
+      "B": "Hanya berguna ketika siswa membuka aplikasi pengolah kode",
+      "C": "Membantu manusia memecahkan masalah sehari-hari maupun ilmiah secara terstruktur dan efisien",
+      "D": "Mengharuskan semua orang menguasai bahasa pemrograman C++",
+      "E": "Sama persis dengan menghitung cepat menggunakan kalkulator"
+    },
+    "answer": "C",
+    "explanation": "Berpikir komputasional melatih manusia (bukan membuat manusia seperti robot) agar mampu merancang solusi sistematis dan efisien."
+  },
+  {
+    "id": "Q023",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Ketika merencanakan acara pentas seni sekolah, panitia membagi tugas menjadi seksi acara, konsumsi, perlengkapan, dan dokumentasi. Tindakan ini merupakan contoh nyata dari ...",
+    "options": {
+      "A": "Abstraksi",
+      "B": "Dekomposisi",
+      "C": "Pengurutan",
+      "D": "Enkripsi",
+      "E": "Pencarian biner"
+    },
+    "answer": "B",
+    "explanation": "Membagi proyek besar (pentas seni) menjadi sub-tugas yang lebih terkelola merupakan penerapan dekomposisi."
+  },
+  {
+    "id": "Q024",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Pada peta jalur bus kota atau MRT, stasiun digambarkan sebagai titik dan rute digambarkan sebagai garis lurus berwarna tanpa menampilkan bentuk bangunan di sekitarnya. Contoh ini menunjukkan penerapan ...",
+    "options": {
+      "A": "Dekomposisi",
+      "B": "Abstraksi",
+      "C": "Bubble Sort",
+      "D": "Antrean (Queue)",
+      "E": "Linear Search"
+    },
+    "answer": "B",
+    "explanation": "Peta transit menyaring detail geografis yang tidak perlu dan hanya menampilkan informasi penting (stasiun, koneksi, dan jalur)."
+  },
+  {
+    "id": "Q025",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Seorang siswa melihat bahwa setiap hari Senin pagi gerbang sekolah selalu macet pada pukul 06.45–07.00, sehingga ia memutuskan berangkat 15 menit lebih awal setiap hari Senin. Siswa tersebut menerapkan ...",
+    "options": {
+      "A": "Pengenalan Pola",
+      "B": "Stack",
+      "C": "Pengurutan Seleksi",
+      "D": "Abstraksi Berkas",
+      "E": "Kompilasi Data"
+    },
+    "answer": "A",
+    "explanation": "Mengidentifikasi kejadian yang berulang secara konsisten pada waktu tertentu merupakan pengenalan pola untuk mengambil keputusan."
+  },
+  {
+    "id": "Q026",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Mengikuti resep memasak nasi goreng mulai dari menyiapkan bahan, memanaskan wajan, menumis bumbu, hingga menyajikan secara berurutan mirip dengan konsep ...",
+    "options": {
+      "A": "Algoritma",
+      "B": "Dekomposisi",
+      "C": "Binary Search",
+      "D": "Overflow",
+      "E": "Jaringan Komputer"
+    },
+    "answer": "A",
+    "explanation": "Resep berisi urutan langkah yang jelas dan terstruktur untuk mencapai hasil akhir tertentu, persis seperti algoritma."
+  },
+  {
+    "id": "Q027",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Dalam menyelesaikan persoalan optimasi seperti menentukan rute terpendek menuju sekolah dengan mempertimbangkan jarak dan kepadatan jalan, aspek yang paling diutamakan dalam Berpikir Komputasional adalah ...",
+    "options": {
+      "A": "Keacakan langkah",
+      "B": "Efisiensi solusi terhadap waktu dan sumber daya",
+      "C": "Membuat langkah sebanyak mungkin",
+      "D": "Menghindari penggunaan data historis",
+      "E": "Mengabaikan kendala jarak tempuh"
+    },
+    "answer": "B",
+    "explanation": "Berpikir komputasional tidak hanya mencari solusi yang benar, tetapi juga yang paling efektif dan efisien dari segi waktu maupun langkah."
+  },
+  {
+    "id": "Q028",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Jika kamu diminta menebak sebuah angka rahasia antara 1 sampai 100 dengan petunjuk 'terlalu besar' atau 'terlalu kecil', strategi paling efisien berdasarkan berpikir komputasional adalah ...",
+    "options": {
+      "A": "Menebak secara berurutan mulai dari 1, 2, 3, seterusnya",
+      "B": "Menebak angka secara acak tanpa memperhatikan petunjuk",
+      "C": "Selalu menebak nilai tengah dari rentang angka yang tersisa",
+      "D": "Menebak mulai dari angka 100 turun satu per satu",
+      "E": "Hanya menebak bilangan ganjil terlebih dahulu"
+    },
+    "answer": "C",
+    "explanation": "Menebak nilai tengah membagi ruang pencarian menjadi separuhnya setiap langkah (prinsip Binary Search), jauh lebih cepat daripada menebak satu per satu."
+  },
+  {
+    "id": "Q029",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Salah satu ciri algoritma yang baik dalam memecahkan masalah adalah memiliki sifat 'terbatas' (finiteness), yang berarti ...",
+    "options": {
+      "A": "Algoritma tidak pernah memiliki hasil akhir",
+      "B": "Algoritma harus berhenti setelah melakukan sejumlah langkah tertentu",
+      "C": "Algoritma hanya boleh terdiri dari maksimal 3 baris instruksi",
+      "D": "Algoritma harus menggunakan angka pecahan",
+      "E": "Algoritma tidak boleh memiliki perulangan"
+    },
+    "answer": "B",
+    "explanation": "Setiap algoritma yang baik harus berakhir (terminates) dalam jumlah langkah yang terhingga dan menghasilkan keluaran yang tepat."
+  },
+  {
+    "id": "Q030",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Dalam ilmu Informatika, proses menemukan suatu nilai atau elemen tertentu di dalam sekumpulan data disebut ...",
+    "options": {
+      "A": "Sorting",
+      "B": "Searching",
+      "C": "Stacking",
+      "D": "Queuing",
+      "E": "Hashing"
+    },
+    "answer": "B",
+    "explanation": "Searching (pencarian) adalah proses memeriksa kumpulan data untuk menemukan posisi atau keberadaan elemen target."
+  },
+  {
+    "id": "Q031",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Metode pencarian yang memeriksa setiap elemen dalam daftar satu per satu dari awal hingga akhir sampai data ditemukan disebut ...",
+    "options": {
+      "A": "Binary Search",
+      "B": "Linear Search (Sequential Search)",
+      "C": "Bubble Search",
+      "D": "Quick Search",
+      "E": "Merge Search"
+    },
+    "answer": "B",
+    "explanation": "Linear Search atau Sequential Search menelusuri elemen secara berurutan satu demi satu dari indeks pertama sampai elemen ditemukan atau daftar habis."
+  },
+  {
+    "id": "Q032",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Syarat mutlak yang harus dipenuhi sekumpulan data sebelum algoritma Binary Search (pencarian biner) dapat dijalankan dengan benar adalah ...",
+    "options": {
+      "A": "Jumlah data harus bilangan ganjil",
+      "B": "Semua data harus berupa huruf kapital",
+      "C": "Data harus sudah dalam keadaan terurut (ascending atau descending)",
+      "D": "Data tidak boleh lebih dari 10 elemen",
+      "E": "Data harus disimpan dalam struktur Stack"
+    },
+    "answer": "C",
+    "explanation": "Binary Search membandingkan elemen tengah dan membuang separuh ruang pencarian, sehingga data wajib sudah terurut terlebih dahulu."
+  },
+  {
+    "id": "Q033",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Diketahui daftar terurut: [4, 9, 15, 22, 31, 45, 60]. Jika kita mencari angka 45 menggunakan Binary Search, elemen pertama yang diperiksa pada langkah awal adalah ...",
+    "options": {
+      "A": "4",
+      "B": "15",
+      "C": "22",
+      "D": "45",
+      "E": "60"
+    },
+    "answer": "C",
+    "explanation": "Terdapat 7 elemen (indeks 0..6). Indeks tengah adalah (0+6)/2 = 3, yaitu elemen bernilai 22."
+  },
+  {
+    "id": "Q034",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Keunggulan utama Linear Search dibandingkan Binary Search adalah ...",
+    "options": {
+      "A": "Selalu lebih cepat untuk jutaan data",
+      "B": "Dapat digunakan langsung pada kumpulan data yang belum terurut (acak)",
+      "C": "Hanya memerlukan satu kali perbandingan pada kasus terburuk",
+      "D": "Membutuhkan struktur data pohon biner",
+      "E": "Tidak memeriksa elemen pertama sama sekali"
+    },
+    "answer": "B",
+    "explanation": "Linear Search tidak mensyaratkan data terurut, sehingga langsung dapat digunakan pada data acak maupun daftar berukuran kecil."
+  },
+  {
+    "id": "Q035",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Contoh aktivitas sehari-hari yang paling sesuai dengan prinsip cara kerja Binary Search adalah ...",
+    "options": {
+      "A": "Mencari kunci yang jatuh di kamar dengan memeriksa sudut ruangan satu per satu",
+      "B": "Mencari kata dalam kamus cetak yang tersusun abjad dengan membuka bagian tengah kamus lalu menentukan ke kiri atau kanan",
+      "C": "Mengambil piring paling atas dari tumpukan piring di dapur",
+      "D": "Membeli tiket bioskop sesuai urutan antrean di loket",
+      "E": "Mencocokkan nomor undian satu demi satu dari kertas kupon acak"
+    },
+    "answer": "B",
+    "explanation": "Membuka bagian tengah kamus yang terurut abjad dan mempersempit pencarian ke setengah bagian kiri atau kanan adalah analogi klasik Binary Search."
+  },
+  {
+    "id": "Q036",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Pada kumpulan data berjumlah 1.000 elemen yang sudah terurut, kasus terburuk (worst case) Linear Search membutuhkan 1.000 perbandingan. Kira-kira berapa jumlah perbandingan maksimal yang dibutuhkan oleh Binary Search?",
+    "options": {
+      "A": "Sekitar 500 kali",
+      "B": "Sekitar 100 kali",
+      "C": "Sekitar 10 kali",
+      "D": "Sekitar 250 kali",
+      "E": "Tepat 1 kali"
+    },
+    "answer": "C",
+    "explanation": "Kompleksitas Binary Search adalah O(log₂ n). Karena 2¹⁰ = 1024, maksimal hanya diperlukan sekitar 10 langkah perbandingan."
+  },
+  {
+    "id": "Q037",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Proses menyusun sekumpulan data ke dalam urutan tertentu, baik dari nilai terkecil ke terbesar (ascending) maupun terbesar ke terkecil (descending), disebut ...",
+    "options": {
+      "A": "Searching",
+      "B": "Sorting",
+      "C": "Filtering",
+      "D": "Popping",
+      "E": "Parsing"
+    },
+    "answer": "B",
+    "explanation": "Sorting (pengurutan) menata elemen data berdasarkan kriteria urutan menaik (ascending) atau menurun (descending)."
+  },
+  {
+    "id": "Q038",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Algoritma pengurutan yang bekerja dengan cara membandingkan dua elemen yang bersebelahan dan menukarnya (swap) jika urutannya salah secara berulang hingga seluruh data terurut disebut ...",
+    "options": {
+      "A": "Selection Sort",
+      "B": "Insertion Sort",
+      "C": "Bubble Sort",
+      "D": "Merge Sort",
+      "E": "Binary Sort"
+    },
+    "answer": "C",
+    "explanation": "Bubble Sort berulang kali membandingkan pasangan elemen bersebelahan dan menukarnya jika tidak sesuai urutan, seperti gelembung yang naik ke permukaan."
+  },
+  {
+    "id": "Q039",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Cara kerja algoritma Insertion Sort dalam mengurutkan data sering dianalogikan seperti aktivitas ...",
+    "options": {
+      "A": "Mengantre di kasir supermarket",
+      "B": "Menyusun kartu remi di tangan dengan menyisipkan kartu baru ke posisi yang tepat",
+      "C": "Mengambil buku paling atas dari lemari",
+      "D": "Mencari nama siswa di daftar absensi acak",
+      "E": "Mengacak dadu sebelum permainan dimulai"
+    },
+    "answer": "B",
+    "explanation": "Insertion Sort mengambil satu elemen pada satu waktu lalu menyisipkannya ke posisi yang sesuai di bagian daftar yang sudah terurut, mirip menyusun kartu."
+  },
+  {
+    "id": "Q040",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Algoritma pengurutan yang mencari nilai terkecil (atau terbesar) dari bagian daftar yang belum terurut, lalu menukarnya dengan elemen pertama dari bagian yang belum terurut tersebut adalah ...",
+    "options": {
+      "A": "Selection Sort",
+      "B": "Bubble Sort",
+      "C": "Quick Sort",
+      "D": "Insertion Sort",
+      "E": "Counting Sort"
+    },
+    "answer": "A",
+    "explanation": "Selection Sort memilih elemen minimum/maksimum pada setiap iterasi lalu menempatkannya di posisi awal bagian yang belum terurut."
+  },
+  {
+    "id": "Q041",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Diberikan array [8, 3, 5, 2]. Setelah melakukan 1 kali putaran penuh (pass pertama) Bubble Sort secara menaik (ascending), susunan array menjadi ...",
+    "options": {
+      "A": "[2, 3, 5, 8]",
+      "B": "[3, 5, 2, 8]",
+      "C": "[3, 8, 5, 2]",
+      "D": "[8, 5, 3, 2]",
+      "E": "[2, 8, 3, 5]"
+    },
+    "answer": "B",
+    "explanation": "Pass 1: (8,3)->[3,8,5,2]; (8,5)->[3,5,8,2]; (8,2)->[3,5,2,8]. Elemen terbesar (8) naik ke posisi paling kanan."
+  },
+  {
+    "id": "Q042",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Mengurutkan data sebelum melakukan pencarian memberikan keuntungan besar, yaitu ...",
+    "options": {
+      "A": "Data dapat dicari menggunakan algoritma cepat seperti Binary Search",
+      "B": "Ukuran file data menjadi nol byte",
+      "C": "Data tidak perlu disimpan di memori komputer",
+      "D": "Menghapus semua elemen duplikat secara otomatis tanpa perintah",
+      "E": "Mengubah semua tipe teks menjadi angka"
+    },
+    "answer": "A",
+    "explanation": "Data yang sudah terurut memungkinkan penggunaan Binary Search serta memudahkan pembacaan, pemeringkatan, dan analisis nilai."
+  },
+  {
+    "id": "Q043",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Manakah urutan daftar nilai berikut yang disusun secara descending (menurun)?",
+    "options": {
+      "A": "[65, 72, 80, 88, 95]",
+      "B": "[95, 88, 80, 72, 65]",
+      "C": "[80, 95, 65, 88, 72]",
+      "D": "[65, 95, 72, 88, 80]",
+      "E": "[72, 65, 80, 95, 88]"
+    },
+    "answer": "B",
+    "explanation": "Descending berarti diurutkan dari nilai terbesar ke nilai terkecil: 95, 88, 80, 72, 65."
+  },
+  {
+    "id": "Q044",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Struktur data Stack (tumpukan) bekerja berdasarkan prinsip ...",
+    "options": {
+      "A": "FIFO (First In, First Out)",
+      "B": "LIFO (Last In, First Out)",
+      "C": "LILO (Last In, Last Out)",
+      "D": "Random Access",
+      "E": "Round Robin"
+    },
+    "answer": "B",
+    "explanation": "Pada Stack, elemen yang terakhir masuk (Last In) adalah elemen pertama yang keluar (First Out)."
+  },
+  {
+    "id": "Q045",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Operasi untuk menambahkan elemen baru ke bagian paling atas sebuah Stack disebut ...",
+    "options": {
+      "A": "Pop",
+      "B": "Push",
+      "C": "Dequeue",
+      "D": "Peek",
+      "E": "Swap"
+    },
+    "answer": "B",
+    "explanation": "Push menambahkan data baru ke puncak (Top) tumpukan, sedangkan Pop mengambil/menghapus data dari puncak tumpukan."
+  },
+  {
+    "id": "Q046",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Jika Stack mula-mula kosong, lalu dilakukan operasi berturut-turut: Push(10), Push(20), Push(30), Pop(), Push(40), Pop(). Elemen yang berada di puncak (Top) Stack sekarang adalah ...",
+    "options": {
+      "A": "10",
+      "B": "20",
+      "C": "30",
+      "D": "40",
+      "E": "Stack kosong"
+    },
+    "answer": "B",
+    "explanation": "Push(10)->[10]; Push(20)->[10,20]; Push(30)->[10,20,30]; Pop()->[10,20]; Push(40)->[10,20,40]; Pop()->[10,20]. Top adalah 20."
+  },
+  {
+    "id": "Q047",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Fitur 'Undo' pada aplikasi pengolah kata dan tombol 'Back' pada peramban web (browser) umumnya diimplementasikan menggunakan struktur data ...",
+    "options": {
+      "A": "Queue",
+      "B": "Stack",
+      "C": "Bubble Sort",
+      "D": "Binary Search",
+      "E": "Graf Tidak Berarah"
+    },
+    "answer": "B",
+    "explanation": "Aksi yang paling terakhir dilakukan harus dibatalkan terlebih dahulu (LIFO), sehingga paling tepat menggunakan Stack."
+  },
+  {
+    "id": "Q048",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Struktur data Queue (antrean) menerapkan prinsip ...",
+    "options": {
+      "A": "LIFO (Last In, First Out)",
+      "B": "FIFO (First In, First Out)",
+      "C": "FILO (First In, Last Out)",
+      "D": "Top-Down Only",
+      "E": "Priority Override"
+    },
+    "answer": "B",
+    "explanation": "Pada Queue, elemen yang pertama kali masuk (First In) akan dilayani dan keluar pertama kali (First Out)."
+  },
+  {
+    "id": "Q049",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Pada struktur data Queue, istilah untuk operasi menambahkan elemen di bagian belakang (Rear) dan menghapus elemen dari bagian depan (Front) berturut-turut adalah ...",
+    "options": {
+      "A": "Push dan Pop",
+      "B": "Enqueue dan Dequeue",
+      "C": "Insert dan Sort",
+      "D": "Peak dan Clear",
+      "E": "Top dan Bottom"
+    },
+    "answer": "B",
+    "explanation": "Enqueue menambah elemen ke belakang antrean (rear), sedangkan Dequeue mengeluarkan elemen terdepan (front)."
+  },
+  {
+    "id": "Q050",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Manakah contoh sistem komputasi nyata yang bekerja menggunakan prinsip Queue (FIFO)?",
+    "options": {
+      "A": "Tombol Undo pada editor gambar",
+      "B": "Antrean dokumen yang dikirim beberapa pengguna ke satu printer bersama",
+      "C": "Tumpukan batu bata yang diambil dari bagian paling atas",
+      "D": "Riwayat pemanggilan fungsi rekursif di memori",
+      "E": "Membalik urutan huruf pada sebuah kata"
+    },
+    "answer": "B",
+    "explanation": "Dokumen yang lebih dahulu dikirim ke printer akan dicetak terlebih dahulu sesuai urutan antrean (FIFO)."
+  },
+  {
+    "id": "Q051",
+    "type": "pg_kompleks",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Pilihlah pernyataan di bawah ini yang merupakan bagian dari empat pilar utama Berpikir Komputasional! (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Dekomposisi (memecah masalah besar menjadi bagian kecil)",
+      "B": "Pengenalan Pola (menemukan kesamaan atau keteraturan)",
+      "C": "Abstraksi (menyaring bagian penting dan mengabaikan detail tidak relevan)",
+      "D": "Kompilasi Biner (mengubah teks menjadi sinyal listrik)",
+      "E": "Berpikir Algoritmik (menyusun langkah penyelesaian secara sistematis)"
+    },
+    "answer": ["A", "B", "C", "E"],
+    "explanation": "Keempat pilar Berpikir Komputasional adalah Dekomposisi, Pengenalan Pola, Abstraksi, dan Berpikir Algoritmik."
+  },
+  {
+    "id": "Q052",
+    "type": "pg_kompleks",
+    "topic": "Pencarian (Searching)",
+    "question": "Manakah pernyataan yang BENAR mengenai perbandingan antara Linear Search dan Binary Search? (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Binary Search mengharuskan data berada dalam kondisi terurut",
+      "B": "Linear Search dapat bekerja pada data yang belum terurut",
+      "C": "Binary Search selalu memeriksa seluruh elemen dari indeks awal hingga akhir",
+      "D": "Binary Search jauh lebih efisien daripada Linear Search untuk data terurut berukuran besar",
+      "E": "Linear Search hanya bisa mencari data bertipe huruf"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Binary Search mensyaratkan data terurut dan jauh lebih cepat pada data besar; Linear Search dapat dipakai pada data acak."
+  },
+  {
+    "id": "Q053",
+    "type": "pg_kompleks",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Pilihlah ciri-ciri dan penerapan yang tepat untuk struktur data Stack! (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Menerapkan prinsip Last In, First Out (LIFO)",
+      "B": "Menggunakan operasi Push untuk menambah dan Pop untuk mengambil elemen",
+      "C": "Elemen yang pertama masuk pasti keluar pertama kali",
+      "D": "Digunakan pada fitur Undo/Redo dan riwayat halaman browser",
+      "E": "Penambahan dan penghapusan dilakukan pada dua ujung yang berbeda"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Stack bersifat LIFO dengan operasi Push/Pop pada satu ujung (Top), dan umum dipakai untuk fitur Undo serta riwayat browser."
+  },
+  {
+    "id": "Q054",
+    "type": "pg_kompleks",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Pernyataan manakah yang benar mengenai algoritma pengurutan (Sorting)? (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Pengurutan ascending menyusun nilai dari kecil ke besar",
+      "B": "Bubble Sort membandingkan dan menukar elemen yang bersebelahan",
+      "C": "Insertion Sort menyisipkan elemen ke posisi yang tepat pada bagian yang sudah terurut",
+      "D": "Data tidak pernah bisa diurutkan dari nilai terbesar ke terkecil",
+      "E": "Selection Sort memilih elemen terkecil/terbesar pada setiap iterasi"
+    },
+    "answer": ["A", "B", "C", "E"],
+    "explanation": "Ascending mengurutkan kecil ke besar; Bubble Sort menukar elemen bersebelahan; Insertion Sort menyisipkan; Selection Sort memilih nilai ekstrem."
+  },
+  {
+    "id": "Q055",
+    "type": "pg_kompleks",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Praktik yang mencerminkan Keterampilan Generik yang baik saat bekerja dalam tim Informatika adalah ... (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Membagi tugas proyek secara adil sesuai peran masing-masing anggota",
+      "B": "Menyajikan hasil analisis data menggunakan infografis yang jelas",
+      "C": "Menyimpan seluruh file proyek sendiri tanpa membagikannya ke anggota tim",
+      "D": "Melakukan komunikasi berkala untuk menyatukan progres kerja",
+      "E": "Menyampaikan presentasi secara terstruktur dan mudah dipahami"
+    },
+    "answer": ["A", "B", "D", "E"],
+    "explanation": "Keterampilan generik mencakup kolaborasi tim, pembagian peran yang jelas, komunikasi aktif, serta penyajian hasil yang komunikatif."
+  },
+  {
+    "id": "Q056",
+    "type": "isian",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Sebuah Stack awalnya kosong. Operasi berikut dijalankan berurutan: Push(15), Push(25), Push(35), Pop(), Push(50), Push(60), Pop(), Pop(). Berapakah nilai angka yang berada di puncak (Top) Stack sekarang? (Tuliskan angka saja)",
+    "answer": "25",
+    "explanation": "Push(15)->[15]; Push(25)->[15,25]; Push(35)->[15,25,35]; Pop()->[15,25]; Push(50)->[15,25,50]; Push(60)->[15,25,50,60]; Pop()->[15,25,50]; Pop()->[15,25]. Top adalah 25."
+  },
+  {
+    "id": "Q057",
+    "type": "isian",
+    "topic": "Pencarian (Searching)",
+    "question": "Diketahui daftar terurut: [5, 10, 15, 20, 25, 30, 35, 40, 45]. Jika mencari angka 35 dengan metode Linear Search mulai dari elemen pertama (indeks 1), berapa kali pemeriksaan elemen yang dilakukan hingga angka 35 ditemukan? (Tuliskan angka saja)",
+    "answer": "7",
+    "explanation": "Elemen diperiksa berurutan: 5(1), 10(2), 15(3), 20(4), 25(5), 30(6), 35(7). Ditemukan pada pemeriksaan ke-7."
+  },
+  {
+    "id": "Q058",
+    "type": "isian",
+    "topic": "Pencarian (Searching)",
+    "question": "Diketahui daftar terurut: [10, 20, 30, 40, 50, 60, 70]. Jika mencari angka 60 menggunakan Binary Search, pada langkah pertama nilai tengahnya adalah 40. Berapakah nilai elemen tengah yang diperiksa pada langkah kedua? (Tuliskan angka saja)",
+    "answer": "60",
+    "explanation": "Karena 60 > 40, pencarian berlanjut ke separuh kanan [50, 60, 70]. Nilai tengah pada langkah kedua adalah 60."
+  },
+  {
+    "id": "Q059",
+    "type": "isian",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Sebuah daftar berisi 5 angka acak akan diurutkan menggunakan Bubble Sort. Pada putaran pertama (pass ke-1), berapa jumlah perbandingan pasangan elemen bersebelahan yang dilakukan? (Tuliskan angka saja)",
+    "answer": "4",
+    "explanation": "Untuk n = 5 elemen, pass ke-1 membandingkan (1&2), (2&3), (3&4), dan (4&5), sehingga totalnya n - 1 = 4 perbandingan."
+  },
+  {
+    "id": "Q060",
+    "type": "isian",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Sebuah Queue (antrean) awalnya kosong. Operasi berikut dilakukan berurutan: Enqueue(100), Enqueue(200), Enqueue(300), Dequeue(), Enqueue(400), Dequeue(). Berapakah nilai elemen yang kini berada di posisi paling depan (Front) antrean? (Tuliskan angka saja)",
+    "answer": "300",
+    "explanation": "Enqueue 100,200,300 -> [100,200,300]; Dequeue() mengeluarkan 100 -> [200,300]; Enqueue(400) -> [200,300,400]; Dequeue() mengeluarkan 200 -> [300,400]. Elemen Front adalah 300."
+  },
+  {
+    "id": "Q061",
+    "type": "benar_salah",
+    "topic": "Apa Itu Informatika?",
+    "question": "Informatika hanya mempelajari cara mengoperasikan aplikasi perkantoran seperti pengolah kata dan lembar kerja tanpa membahas konsep sistem komputasi maupun algoritma.",
+    "answer": "Salah",
+    "explanation": "Pernyataan ini salah karena Informatika mempelajari konsep dasar komputasi, algoritma, sistem komputer, analisis data, dan penciptaan solusi teknologi."
+  },
+  {
+    "id": "Q062",
+    "type": "benar_salah",
+    "topic": "Pencarian (Searching)",
+    "question": "Algoritma Binary Search dapat memberikan hasil pencarian yang selalu akurat meskipun daftar datanya belum diurutkan terlebih dahulu.",
+    "answer": "Salah",
+    "explanation": "Pernyataan ini salah karena Binary Search mensyaratkan data harus sudah terurut agar pembagian rentang pencarian valid."
+  },
+  {
+    "id": "Q063",
+    "type": "benar_salah",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Pada struktur data Queue (antrean), elemen yang pertama kali dimasukkan (Enqueue) akan menjadi elemen yang pertama kali dikeluarkan (Dequeue) sesuai prinsip FIFO.",
+    "answer": "Benar",
+    "explanation": "Benar. Queue menganut prinsip First In, First Out (FIFO)."
+  },
+  {
+    "id": "Q064",
+    "type": "benar_salah",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Abstraksi dalam Berpikir Komputasional bertujuan memusatkan perhatian pada informasi yang penting dan relevan saja, serta mengabaikan detail yang tidak dibutuhkan untuk menyelesaikan masalah.",
+    "answer": "Benar",
+    "explanation": "Benar. Abstraksi menyederhanakan persoalan dengan mempertahankan inti masalah dan menyembunyikan detail yang tidak relevan."
+  },
+  {
+    "id": "Q065",
+    "type": "benar_salah",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Mengurutkan data dari nilai terbesar ke nilai terkecil (misalnya 100, 90, 80, 70) disebut pengurutan secara ascending.",
+    "answer": "Salah",
+    "explanation": "Salah. Mengurutkan dari nilai terbesar ke terkecil disebut descending, sedangkan dari terkecil ke terbesar disebut ascending."
+  },
+  {
+    "id": "Q066",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Pilar keilmuan Informatika yang secara khusus mempelajari komponen perangkat keras (hardware), sistem operasi, serta cara perangkat lunak berinteraksi dengan perangkat keras adalah ...",
+    "options": {
+      "A": "Jaringan Komputer dan Internet (JKI)",
+      "B": "Sistem Komputer (SK)",
+      "C": "Analisis Data (AD)",
+      "D": "Dampak Sosial Informatika (DSI)",
+      "E": "Teknologi Informasi dan Komunikasi (TIK)"
+    },
+    "answer": "B",
+    "explanation": "Sistem Komputer (SK) membahas komponen penyusun komputer, mekanisme eksekusi instruksi oleh CPU, memori, dan sistem operasi."
+  },
+  {
+    "id": "Q067",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Dalam delapan pilar Informatika, bidang yang mengkaji cara komputer saling terhubung, pertukaran paket data melalui protokol jaringan, serta keamanan koneksi internet adalah ...",
+    "options": {
+      "A": "Praktik Lintas Bidang (PLB)",
+      "B": "Algoritma dan Pemrograman (AP)",
+      "C": "Jaringan Komputer dan Internet (JKI)",
+      "D": "Berpikir Komputasional (BK)",
+      "E": "Sistem Komputer (SK)"
+    },
+    "answer": "C",
+    "explanation": "Jaringan Komputer dan Internet (JKI) berfokus pada arsitektur jaringan lokal maupun internet, protokol komunikasi, dan proteksi jalur data."
+  },
+  {
+    "id": "Q068",
+    "type": "pg",
+    "topic": "Apa Itu Informatika?",
+    "question": "Kegiatan mengumpulkan data mentah, membersihkan data yang tidak valid, lalu mengolah dan menampilkannya dalam bentuk grafik agar mudah diambil kesimpulan merupakan inti dari pilar ...",
+    "options": {
+      "A": "Analisis Data (AD)",
+      "B": "Dampak Sosial Informatika (DSI)",
+      "C": "Sistem Komputer (SK)",
+      "D": "Keterampilan Generik",
+      "E": "Jaringan Komputer dan Internet (JKI)"
+    },
+    "answer": "A",
+    "explanation": "Analisis Data (AD) mencakup tahapan pengumpulan, pembersihan, transformasi, analisis, serta visualisasi data menjadi informasi yang bermakna."
+  },
+  {
+    "id": "Q069",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Keuntungan utama memanfaatkan aplikasi kolaborasi dokumen berbasis daring (cloud) saat mengerjakan proyek kelompok Informatika adalah ...",
+    "options": {
+      "A": "Membuat ukuran file menjadi lebih besar di setiap perangkat siswa",
+      "B": "Menghapus kebutuhan akan pembagian tugas di dalam kelompok",
+      "C": "Mencegah anggota tim membaca hasil pekerjaan rekan lainnya",
+      "D": "Memudahkan penyuntingan bersama secara real-time dan melacak riwayat revisi",
+      "E": "Mengharuskan seluruh anggota tim berada di ruangan yang sama setiap saat"
+    },
+    "answer": "D",
+    "explanation": "Dokumen kolaborasi daring memungkinkan banyak anggota menyunting dokumen bersamaan, memberi komentar, dan memantau riwayat versi."
+  },
+  {
+    "id": "Q070",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Ketika memaparkan rancangan aplikasi kepada guru dan teman sekelas dalam waktu terbatas, kemampuan menyusun alur bicara yang runtut, jelas, dan fokus pada inti solusi disebut ...",
+    "options": {
+      "A": "Kompilasi program",
+      "B": "Pengkodean biner",
+      "C": "Pencarian sekuensial",
+      "D": "Penghapusan data",
+      "E": "Presentasi efektif"
+    },
+    "answer": "E",
+    "explanation": "Presentasi efektif adalah bagian penting Keterampilan Generik untuk mengomunikasikan ide, proses, dan hasil karya secara terstruktur."
+  },
+  {
+    "id": "Q071",
+    "type": "pg",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Agar infografis hasil proyek Informatika mudah dibaca dan cepat dipahami oleh audiens, prinsip desain visual yang tepat diterapkan adalah ...",
+    "options": {
+      "A": "Menggunakan sebanyak mungkin jenis huruf berbeda dalam satu halaman",
+      "B": "Menjaga kontras warna teks dengan latar belakang serta hierarki judul yang jelas",
+      "C": "Memenuhi seluruh sudut layar dengan paragraf panjang tanpa jarak spasi",
+      "D": "Meletakkan teks berwarna kuning terang di atas latar belakang putih polos",
+      "E": "Menghilangkan label angka dan satuan dari seluruh grafik batang"
+    },
+    "answer": "B",
+    "explanation": "Kontras warna yang baik, hierarki tipografi yang jelas, dan ruang kosong yang cukup menjadikan informasi visual cepat dicerna."
+  },
+  {
+    "id": "Q072",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Setelah menyelesaikan tiga soal konversi satuan panjang yang berbeda, seorang siswa merumuskan satu rumus umum yang dapat dipakai untuk semua ukuran panjang. Sikap berpikir ini mencerminkan ...",
+    "options": {
+      "A": "Pengacakan data secara acak",
+      "B": "Pengulangan instruksi tanpa henti",
+      "C": "Generalisasi pola untuk membentuk aturan umum",
+      "D": "Penghapusan komponen utama masalah",
+      "E": "Penyimpanan data secara manual di kertas"
+    },
+    "answer": "C",
+    "explanation": "Mengidentifikasi kesamaan aturan dari beberapa contoh lalu merumuskan solusi umum merupakan penerapan pengenalan pola dan abstraksi."
+  },
+  {
+    "id": "Q073",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Mengapa langkah dekomposisi sangat membantu tim saat merancang sistem perangkat lunak berskala besar?",
+    "options": {
+      "A": "Karena sistem dipecah menjadi modul-modul kecil yang mudah dibagi, dikerjakan, dan diuji",
+      "B": "Karena seluruh anggota tim wajib menulis ulang file yang sama secara bersamaan",
+      "C": "Karena dekomposisi menghilangkan kebutuhan terhadap algoritma dan logika",
+      "D": "Karena setiap kesalahan kode akan otomatis diperbaiki tanpa pengujian",
+      "E": "Karena program menjadi tidak memerlukan input maupun output"
+    },
+    "answer": "A",
+    "explanation": "Dekomposisi memecah sistem kompleks menjadi sub-modul terpisah sehingga pengerjaan paralel, pelacakan bug, dan pengujian menjadi jauh lebih mudah."
+  },
+  {
+    "id": "Q074",
+    "type": "pg",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Dalam membuat sistem informasi peminjaman buku perpustakaan sekolah, contoh penerapan abstraksi yang paling tepat adalah ...",
+    "options": {
+      "A": "Mencatat berat kertas dan jenis lem jilid setiap buku di katalog peminjaman",
+      "B": "Memfoto seluruh halaman buku sebelum dipinjamkan kepada siswa",
+      "C": "Mengukur suhu ruangan perpustakaan untuk setiap transaksi peminjaman",
+      "D": "Hanya mencatat kode buku, judul, status ketersediaan, dan identitas peminjam",
+      "E": "Menuliskan biografi lengkap penulis di kartu antrean kasir"
+    },
+    "answer": "D",
+    "explanation": "Abstraksi menyaring data agar sistem hanya menyimpan atribut yang relevan untuk proses peminjaman dan mengabaikan detail yang tidak diperlukan."
+  },
+  {
+    "id": "Q075",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Petugas pengiriman paket mengelompokkan ratusan alamat tujuan terlebih dahulu berdasarkan wilayah kecamatan sebelum menyusun rute masing-masing kurir. Langkah awal ini menerapkan pilar ...",
+    "options": {
+      "A": "Dekomposisi",
+      "B": "Enkripsi",
+      "C": "Kompilasi",
+      "D": "Overfitting",
+      "E": "Virtualisasi"
+    },
+    "answer": "A",
+    "explanation": "Membagi masalah pengantaran ratusan paket menjadi kelompok kecil per wilayah merupakan penerapan dekomposisi masalah."
+  },
+  {
+    "id": "Q076",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Saat membangun gim edukasi, pengembang menyadari bahwa setiap musuh memiliki perilaku bergerak kiri-kanan dan berkurang nyawanya saat terkena peluru. Kesamaan perilaku tersebut dimanfaatkan pada tahap ...",
+    "options": {
+      "A": "Pencarian biner",
+      "B": "Penyisipan tumpukan",
+      "C": "Penghapusan antrean",
+      "D": "Pengurutan gelembung",
+      "E": "Pengenalan pola (Pattern Recognition)"
+    },
+    "answer": "E",
+    "explanation": "Mengenali kesamaan sifat atau perilaku berulang antar objek untuk memakai ulang rancangan solusi adalah inti dari Pengenalan Pola."
+  },
+  {
+    "id": "Q077",
+    "type": "pg",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Media representasi algoritma secara visual menggunakan simbol standar seperti oval untuk mulai/selesai, persegi panjang untuk proses, dan belah ketupat untuk keputusan disebut ...",
+    "options": {
+      "A": "Basis data relasional",
+      "B": "Diagram alir (Flowchart)",
+      "C": "Tabel biner",
+      "D": "Peta jaringan fisik",
+      "E": "Lembar kerja statistik"
+    },
+    "answer": "B",
+    "explanation": "Diagram alir (Flowchart) memvisualisasikan urutan langkah dan percabangan algoritma menggunakan simbol-simbol grafis standar."
+  },
+  {
+    "id": "Q078",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Pada algoritma Binary Search dengan batas indeks kiri (low) dan kanan (high), cara yang tepat menentukan posisi indeks tengah (mid) pada setiap langkah pemeriksaan adalah ...",
+    "options": {
+      "A": "Mengalikan indeks low dan high lalu dibagi dua",
+      "B": "Menjumlahkan seluruh nilai elemen di dalam daftar",
+      "C": "Mengambil hasil bagi bulat dari (low + high) dibagi 2",
+      "D": "Mengurangi nilai elemen terbesar dengan elemen terkecil",
+      "E": "Selalu memeriksa indeks terakhir terlebih dahulu secara berurutan"
+    },
+    "answer": "C",
+    "explanation": "Indeks tengah pada Binary Search dihitung sebagai titik tengah rentang pencarian, yaitu pembulatan ke bawah dari (low + high) / 2."
+  },
+  {
+    "id": "Q079",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Diketahui sebuah daftar terurut berisi tepat 15 elemen berbeda. Pada skenario terburuk (worst case) pencarian menggunakan Binary Search, jumlah pemeriksaan elemen maksimal yang dilakukan adalah ...",
+    "options": {
+      "A": "2 kali pemeriksaan",
+      "B": "4 kali pemeriksaan",
+      "C": "8 kali pemeriksaan",
+      "D": "12 kali pemeriksaan",
+      "E": "15 kali pemeriksaan"
+    },
+    "answer": "B",
+    "explanation": "Dari 15 elemen, pemeriksaan ke-1 menyisakan maksimal 7 elemen, ke-2 menyisakan 3 elemen, ke-3 menyisakan 1 elemen, dan ke-4 memeriksa elemen terakhir (total maksimal 4 kali)."
+  },
+  {
+    "id": "Q080",
+    "type": "pg",
+    "topic": "Pencarian (Searching)",
+    "question": "Situasi manakah yang membuat algoritma Linear Search lebih praktis digunakan dibandingkan Binary Search?",
+    "options": {
+      "A": "Saat mencari satu nama pada direktori jutaan penduduk yang sudah terurut abjad",
+      "B": "Saat indeks pencarian harus membagi rentang data menjadi dua bagian terus-menerus",
+      "C": "Saat data berisi ratusan ribu nomor induk siswa yang sudah terurut menaik",
+      "D": "Saat daftar berukuran kecil, kondisinya acak, dan pencarian hanya dilakukan sesekali",
+      "E": "Saat waktu pencarian wajib selalu logaritmik pada data terurut besar"
+    },
+    "answer": "D",
+    "explanation": "Jika data masih acak dan berukuran kecil untuk pencarian sesekali, langsung menjalankan Linear Search lebih hemat waktu daripada mengurutkan data terlebih dahulu."
+  },
+  {
+    "id": "Q081",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Diberikan array [9, 4, 7, 1, 5]. Jika dilakukan tepat 1 iterasi penuh pertama Selection Sort secara ascending (memilih nilai terkecil untuk posisi indeks pertama), susunan array setelah iterasi ke-1 adalah ...",
+    "options": {
+      "A": "[1, 4, 7, 9, 5]",
+      "B": "[4, 9, 7, 1, 5]",
+      "C": "[1, 4, 5, 7, 9]",
+      "D": "[9, 7, 5, 4, 1]",
+      "E": "[4, 7, 1, 5, 9]"
+    },
+    "answer": "A",
+    "explanation": "Selection Sort mencari elemen terkecil di [9, 4, 7, 1, 5], yaitu 1, lalu menukarnya dengan elemen posisi pertama (9), sehingga hasilnya [1, 4, 7, 9, 5]."
+  },
+  {
+    "id": "Q082",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Diketahui daftar [12, 11, 13, 5, 6] akan diurutkan menaik menggunakan Insertion Sort. Setelah memproses elemen kedua (angka 11), susunan daftar yang benar adalah ...",
+    "options": {
+      "A": "[5, 6, 11, 12, 13]",
+      "B": "[12, 11, 5, 6, 13]",
+      "C": "[11, 13, 12, 5, 6]",
+      "D": "[12, 13, 11, 5, 6]",
+      "E": "[11, 12, 13, 5, 6]"
+    },
+    "answer": "E",
+    "explanation": "Pada langkah memproses angka 11, angka 12 lebih besar dari 11 sehingga 12 digeser ke kanan dan 11 disisipkan di indeks pertama menjadi [11, 12, 13, 5, 6]."
+  },
+  {
+    "id": "Q083",
+    "type": "pg",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Pada algoritma Bubble Sort yang telah dioptimasi dengan penanda pertukaran (flag swapped), apa yang terjadi apabila sebuah daftar masukan ternyata sudah dalam keadaan terurut sempurna?",
+    "options": {
+      "A": "Algoritma tetap mengulang seluruh putaran hingga n kuadrat kali tanpa henti",
+      "B": "Algoritma membalik urutan seluruh elemen menjadi descending secara otomatis",
+      "C": "Algoritma langsung berhenti setelah selesai putaran pertama karena tidak ada pertukaran",
+      "D": "Algoritma menghapus elemen pertama dan terakhir dari daftar",
+      "E": "Algoritma mengalami error karena tidak ada pasangan yang ditukar"
+    },
+    "answer": "C",
+    "explanation": "Jika sepanjang satu putaran penuh tidak ada satu pun pasangan elemen yang ditukar, daftar sudah pasti terurut sehingga proses pengurutan dapat langsung dihentikan."
+  },
+  {
+    "id": "Q084",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Sebuah Stack awalnya kosong. Operasi berikut dijalankan berurutan: Push(5), Push(8), Pop(), Push(12), Push(3). Urutan isi Stack dari bagian dasar (Bottom) ke puncak (Top) sekarang adalah ...",
+    "options": {
+      "A": "[3, 12, 5]",
+      "B": "[8, 12, 3]",
+      "C": "[5, 8, 12, 3]",
+      "D": "[5, 12, 3]",
+      "E": "[12, 3, 5]"
+    },
+    "answer": "D",
+    "explanation": "Push(5)->[5]; Push(8)->[5,8]; Pop()->[5]; Push(12)->[5,12]; Push(3)->[5,12,3]. Jadi dari Bottom ke Top adalah [5, 12, 3]."
+  },
+  {
+    "id": "Q085",
+    "type": "pg",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Dalam implementasi struktur data Stack, kondisi kesalahan ketika program mencoba mengambil atau menghapus elemen dengan operasi Pop() saat Stack berada dalam keadaan kosong disebut ...",
+    "options": {
+      "A": "Stack Overflow",
+      "B": "Infinite Loop",
+      "C": "Binary Mismatch",
+      "D": "Cache Hit",
+      "E": "Stack Underflow"
+    },
+    "answer": "E",
+    "explanation": "Stack Underflow terjadi saat operasi Pop() dipanggil pada Stack yang kosong, sedangkan Stack Overflow terjadi saat Push() dipanggil pada Stack yang sudah penuh."
+  },
+  {
+    "id": "Q086",
+    "type": "pg_kompleks",
+    "topic": "Apa Itu Informatika?",
+    "question": "Manakah di bawah ini yang termasuk dalam delapan pilar bidang pengetahuan utama Informatika? (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Sistem Komputer (SK)",
+      "B": "Jaringan Komputer dan Internet (JKI)",
+      "C": "Analisis Data (AD)",
+      "D": "Pengetikan Naskah Surat Resmi Saja",
+      "E": "Algoritma dan Pemrograman (AP)"
+    },
+    "answer": ["A", "B", "C", "E"],
+    "explanation": "Delapan pilar Informatika mencakup BK, TIK, SK, JKI, AD, AP, DSI, dan PLB; pengetikan surat resmi saja bukan pilar keilmuan Informatika."
+  },
+  {
+    "id": "Q087",
+    "type": "pg_kompleks",
+    "topic": "Mengenal Berpikir Komputasional",
+    "question": "Pilihlah contoh penerapan prinsip Berpikir Komputasional yang tepat dalam aktivitas sehari-hari! (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Memecah persiapan lomba sekolah menjadi tim perlengkapan, konsumsi, dan publikasi",
+      "B": "Menyalin jawaban teman tanpa memahami langkah penyelesaian masalahnya",
+      "C": "Menyusun langkah terurut untuk prosedur evakuasi keadaan darurat di sekolah",
+      "D": "Menyederhanakan denah sekolah dengan hanya menggambar gedung dan jalur keluar saja",
+      "E": "Menunda pekerjaan proyek hingga batas waktu pengumpulan berakhir"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Opsi A adalah dekomposisi, opsi C adalah penyusunan algoritma, dan opsi D adalah abstraksi pada peta/denah."
+  },
+  {
+    "id": "Q088",
+    "type": "pg_kompleks",
+    "topic": "Pencarian (Searching)",
+    "question": "Pernyataan manakah yang BENAR mengenai karakteristik algoritma pencarian data? (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Binary Search mensyaratkan kumpulan data berada dalam urutan menaik atau menurun",
+      "B": "Linear Search tetap dapat digunakan secara langsung pada daftar data yang masih acak",
+      "C": "Linear Search selalu lebih cepat dibandingkan Binary Search pada satu juta data terurut",
+      "D": "Binary Search mempersempit ruang pencarian menjadi separuhnya pada setiap iterasi",
+      "E": "Binary Search selalu memeriksa setiap elemen satu per satu mulai dari indeks pertama"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Binary Search membutuhkan data terurut dan membagi dua rentang pencarian tiap langkah, sementara Linear Search cocok untuk data belum terurut."
+  },
+  {
+    "id": "Q089",
+    "type": "pg_kompleks",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Manakah pernyataan yang tepat mengenai konsep dan penerapan algoritma Pengurutan (Sorting)? (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Daftar nilai [10, 25, 40, 55] tersusun secara ascending (menaik)",
+      "B": "Data yang sudah terurut memungkinkan penerapan algoritma Binary Search secara efisien",
+      "C": "Selection Sort ascending selalu memindahkan nilai terbesar ke posisi paling depan",
+      "D": "Insertion Sort menjaga bagian awal daftar tetap terurut sambil menyisipkan elemen baru",
+      "E": "Pengurutan hanya dapat dilakukan terhadap data bilangan bulat positif saja"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Ascending berarti menaik dari kecil ke besar, sorting mendukung Binary Search, dan Insertion Sort menyisipkan elemen ke bagian yang sudah terurut."
+  },
+  {
+    "id": "Q090",
+    "type": "pg_kompleks",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Pilihlah ciri dan contoh penerapan yang sesuai untuk struktur data Queue (antrean)! (Jawaban lebih dari satu)",
+    "options": {
+      "A": "Bekerja berdasarkan prinsip FIFO (First In, First Out)",
+      "B": "Penambahan elemen baru (Enqueue) dilakukan di ujung belakang (Rear)",
+      "C": "Pengambilan elemen (Dequeue) dilakukan dari ujung belakang (Rear)",
+      "D": "Diterapkan pada antrean pencetakan dokumen di jaringan printer",
+      "E": "Digunakan sebagai mekanisme utama tombol Undo pada editor teks"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Queue bekerja dengan prinsip FIFO: masuk lewat Rear (Enqueue) dan keluar lewat Front (Dequeue), seperti antrean dokumen printer."
+  },
+  {
+    "id": "Q091",
+    "type": "isian",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Sebuah Stack awalnya kosong. Operasi berikut dijalankan berurutan: Push(4), Push(9), Push(14), Pop(), Push(21), Pop(), Pop(), Push(30). Berapakah jumlah total elemen yang tersisa di dalam Stack sekarang? (Tuliskan angka saja)",
+    "answer": "2",
+    "explanation": "Urutan isi Stack: [4] -> [4,9] -> [4,9,14] -> [4,9] -> [4,9,21] -> [4,9] -> [4] -> [4,30]. Tersisa 2 elemen (4 dan 30)."
+  },
+  {
+    "id": "Q092",
+    "type": "isian",
+    "topic": "Pencarian (Searching)",
+    "question": "Diketahui daftar angka: [3, 7, 11, 15, 19, 23, 27, 31, 35, 39]. Jika mencari angka 23 menggunakan Linear Search mulai dari elemen pertama, pada pemeriksaan ke berapakah angka 23 ditemukan? (Tuliskan angka saja)",
+    "answer": "6",
+    "explanation": "Linear Search memeriksa 3 (ke-1), 7 (ke-2), 11 (ke-3), 15 (ke-4), 19 (ke-5), lalu 23 ditemukan pada pemeriksaan ke-6."
+  },
+  {
+    "id": "Q093",
+    "type": "isian",
+    "topic": "Pencarian (Searching)",
+    "question": "Diketahui daftar terurut berisi 7 angka: [5, 12, 18, 24, 30, 36, 42]. Jika mencari angka 12 menggunakan Binary Search, pada langkah pertama nilai tengah yang diperiksa adalah 24. Berapakah nilai elemen tengah yang diperiksa pada langkah kedua? (Tuliskan angka saja)",
+    "answer": "12",
+    "explanation": "Karena 12 < 24, pencarian berlanjut ke separuh kiri [5, 12, 18]. Nilai elemen tengah pada langkah kedua adalah 12."
+  },
+  {
+    "id": "Q094",
+    "type": "isian",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Sebuah daftar berisi 6 bilangan acak [8, 3, 6, 1, 9, 2] akan diurutkan menggunakan Bubble Sort. Pada putaran pertama (pass ke-1), berapakah total perbandingan pasangan elemen bersebelahan yang dilakukan? (Tuliskan angka saja)",
+    "answer": "5",
+    "explanation": "Untuk n = 6 elemen, pass ke-1 memeriksa pasangan (1&2), (2&3), (3&4), (4&5), dan (5&6), sehingga terdapat n - 1 = 5 perbandingan."
+  },
+  {
+    "id": "Q095",
+    "type": "isian",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Sebuah Queue (antrean) awalnya kosong. Operasi berikut dilakukan berurutan: Enqueue(11), Enqueue(22), Dequeue(), Enqueue(33), Enqueue(44), Dequeue(), Enqueue(55). Berapakah nilai elemen yang berada di posisi paling depan (Front) antrean sekarang? (Tuliskan angka saja)",
+    "answer": "33",
+    "explanation": "[11] -> [11,22] -> Dequeue(11):[22] -> [22,33] -> [22,33,44] -> Dequeue(22):[33,44] -> [33,44,55]. Elemen paling depan (Front) adalah 33."
+  },
+  {
+    "id": "Q096",
+    "type": "benar_salah",
+    "topic": "Apa Itu Informatika?",
+    "question": "Pilar Praktik Lintas Bidang (PLB) dalam pelajaran Informatika melatih peserta didik berkolaborasi dalam tim untuk menciptakan artefak komputasional guna memecahkan masalah nyata.",
+    "answer": "Benar",
+    "explanation": "Benar. Praktik Lintas Bidang memadukan konsep Informatika dan kerja sama tim untuk membangun solusi nyata berbentuk artefak komputasional."
+  },
+  {
+    "id": "Q097",
+    "type": "benar_salah",
+    "topic": "Apa itu Ketrampilan Generik?",
+    "question": "Dalam kerja tim Informatika, keterampilan komunikasi hanya diperlukan oleh ketua kelompok saja sementara anggota lain cukup bekerja sendiri tanpa berdiskusi.",
+    "answer": "Salah",
+    "explanation": "Salah. Seluruh anggota kelompok membutuhkan keterampilan komunikasi aktif dan kolaborasi agar pekerjaan antar bagian selaras."
+  },
+  {
+    "id": "Q098",
+    "type": "benar_salah",
+    "topic": "BERPIKIR KOMPUTASIONAL",
+    "question": "Pengenalan pola (Pattern Recognition) membantu kita menemukan kesamaan ciri antar persoalan kecil sehingga solusi yang terbukti efektif dapat dipakai ulang.",
+    "answer": "Benar",
+    "explanation": "Benar. Mengenali pola memungkinkan penyusunan solusi umum yang efisien tanpa harus mengulang analisis dari nol untuk kasus serupa."
+  },
+  {
+    "id": "Q099",
+    "type": "benar_salah",
+    "topic": "Tumpukan (Stack) dan Antrean (Queue)",
+    "question": "Pada struktur data Stack, operasi Push berfungsi mengeluarkan elemen puncak tumpukan sedangkan operasi Pop berfungsi memasukkan elemen baru ke puncak tumpukan.",
+    "answer": "Salah",
+    "explanation": "Salah. Push adalah operasi memasukkan elemen baru ke puncak Stack, sedangkan Pop mengeluarkan elemen dari puncak Stack."
+  },
+  {
+    "id": "Q100",
+    "type": "benar_salah",
+    "topic": "Pengurutan (Sorting)",
+    "question": "Mengurutkan daftar data terlebih dahulu sebelum melakukan pencarian berulang kali memungkinkan pemakaian algoritma Binary Search yang jauh lebih efisien daripada Linear Search.",
+    "answer": "Benar",
+    "explanation": "Benar. Data terurut memungkinkan Binary Search membagi rentang pencarian menjadi dua bagian di tiap langkah sehingga sangat cepat pada data besar."
+  }
+]

@@ -1,0 +1,11 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.cbt-store.json
+.cbt-store.json.tmp
+.cbt-uploads/
